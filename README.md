@@ -1,0 +1,4 @@
+quassel
+=======
+
+QuasselCore docker service
