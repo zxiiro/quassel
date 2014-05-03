@@ -1,4 +1,5 @@
 FROM zxiiro/supervisor
+MAINTAINER Thanh Ha <thanh.ha@alumni.carleton.ca>
 
 RUN apt-get update 
 RUN apt-get -y install quassel-core
